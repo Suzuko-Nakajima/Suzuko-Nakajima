@@ -1,9 +1,7 @@
 ## Name: Suzuko Nakajima
-- Currently learning: Python & C++
-## Learning what with Python?
-- Learning to master the language, currently working wtih filehandling and JSON.
-## Learning what with C++?
-- Learning the basics (f0r now).
+- Programming a Discord bot. Link to it is down below.
+
+[J. Shiro, Saikosaki](https://top.gg/bot/914747253955121183)
 
 
 <!---
